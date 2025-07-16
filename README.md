@@ -27,4 +27,4 @@ HOW TO USE ?
 
 * Run the cells sequentially to reproduce the analysis.
 
-[Dataset used in the project has been uploaded as csv_file ]
+[Dataset used in the project has been uploaded as csv format]
