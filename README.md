@@ -26,3 +26,5 @@ HOW TO USE ?
 * Open the notebook using Jupyter.
 
 * Run the cells sequentially to reproduce the analysis.
+
+[Dataset used in the project has been uploaded as csv_file ]
