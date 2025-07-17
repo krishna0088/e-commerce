@@ -1,5 +1,5 @@
 DATASET USED  : [download link] (https://drive.google.com/drive/folders/1opBYWTaWISZrmw9_6_OysQczGqTVt7AV?usp=sharing)
-
+This project comprises use of some basic and advanced SQL, python implementation on data for getting insights. 
 
 In this project the following major steps are done:
 
